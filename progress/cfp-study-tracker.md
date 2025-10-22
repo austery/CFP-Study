@@ -1,8 +1,8 @@
 # CFP Exam Study Tracker
 
-**Last Updated**: October 19, 2025
-**Exam Date**: November 6, 2025
-**Days Until Exam**: 18 days
+**Last Updated**: October 21, 2025
+**Exam Date**: November 10, 2025
+**Days Until Exam**: 20 days
 
 This single document tracks ALL your CFP exam preparation progress, including:
 - Topics mastered from study sessions
@@ -14,10 +14,10 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 ## Quick Stats
 
-📊 **Overall Progress**: 31/73 topics covered = **42%**
+📊 **Overall Progress**: 47/73 topics covered = **64%**
 📚 **Study Materials**: 1,088 pages of 2024 Dalton slides
-⏰ **Time Remaining**: 18 days
-🎯 **Target**: Pass CFP exam November 6, 2025
+⏰ **Time Remaining**: 20 days
+🎯 **Target**: Pass CFP exam November 10, 2025
 
 ---
 
@@ -26,13 +26,13 @@ This single document tracks ALL your CFP exam preparation progress, including:
 | Domain | Weight | Topics Covered | Slides Available | Status | Priority |
 |--------|--------|----------------|------------------|--------|----------|
 | **A. Professional Conduct** | 8% | 0/6 | ✓ 90 pages | ⚪ Not Started | Medium |
-| **B. General Principles** | 15% | 1/10 | ✓ 90 pages | 🟡 Started (10%) | **HIGH** |
-| **C. Insurance & Risk** | 11% | 4/10 | ✓ 188 pages | 🟡 In Progress (40%) | Medium |
+| **B. General Principles** | 15% | 3/10 | ✓ 90 pages | 🟡 Started (30%) | **HIGH** |
+| **C. Insurance & Risk** | 11% | 10/10 | ✓ 188 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
 | **D. Investment Planning** | 17% | 4/9 | ✓ 188 pages | 🟡 In Progress (44%) | **HIGH** |
 | **E. Tax Planning** | 14% | 8/8 | ✓ 150 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **F. Retirement** | **18%** ⭐ | 8/10 | ✓ 182 pages | 🟢 Strong (80%) | **HIGHEST** |
-| **G. Estate Planning** | 10% | 4/14 | ✓ 200 pages | 🟡 In Progress (29%) | Medium |
-| **H. Psychology** | 7% | 0/6 | ⚠️ Minimal | ⚪ Not Started | Low |
+| **F. Retirement** | **18%** ⭐ | 9/10 | ✓ 182 pages | 🟢 Strong (90%) | **HIGHEST** |
+| **G. Estate Planning** | 10% | 9/14 | ✓ 200 pages | 🟡 In Progress (64%) | Medium |
+| **H. Psychology** | 7% | 2/6 | ⚠️ Minimal | 🟡 Started (33%) | Medium |
 
 ---
 
@@ -63,7 +63,29 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Fundamentals (pages 40-90)
 
-### ✅ Mastered Topics (1/10)
+### ✅ Mastered Topics (3/10)
+
+- [x] **B.7 Financial planning process** (2025-10-20) - **Medium-High confidence**
+  - **Integrated planning**: Address stated client objectives, identify gaps
+  - **Estate preservation** vs estate building vs income generation
+  - Real-world intuition vs CFP exam logic
+  - **Gina LTC problem**: Learned to match recommendation to stated objectives
+  - **In slides**: Pages 40-45 (7-step process)
+
+- [x] **B.9 Cash flow management** (2025-10-20) - **High confidence**
+  - **Emergency fund guidelines**: 3-6 months of expenses
+  - **6-month rule**: Married with one income source (vs 3 months dual income)
+  - **Liquidity assessment**: What counts as accessible funds
+  - **Key rule**: Assets maturing within 3-6 months count as emergency fund
+  - **Jack problem**: Bond maturing in 3 months = liquid ($44,200 total) ✓
+  - **What counts**:
+    - Cash, savings, money market
+    - Short-term CDs
+    - Bonds maturing within 3-6 months (no market risk)
+  - **What doesn't count**:
+    - Retirement accounts (penalties + taxes)
+    - Long-term bonds not near maturity (market value risk)
+  - **In slides**: Pages 45-50
 
 - [x] **B.12 Time value of money** (2025-10-17) - **High confidence**
   - PV/FV calculations: FV = PV × (1 + r)^n
@@ -71,17 +93,10 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **In slides**: Pages 50-55, formulas and examples
   - **Note**: Had prior knowledge, perfect execution
 
-### Not Yet Studied (9/10 topics)
-
-- [ ] **B.7** Financial planning process
-  - **In slides**: 7 Steps (Uber Is A Drunk Person's Immediate Motor vehicle)
-  - Mnemonic: Understanding, Identifying, Analyzing, Developing, Presenting, Implementing, Monitoring
+### Not Yet Studied (7/10 topics)
 
 - [ ] **B.8** Financial statements
   - **In slides**: Balance sheet (Assets - Liabilities = Net Worth), Income/Expense statement
-
-- [ ] **B.9** Cash flow management
-  - **In slides**: Current assets/liabilities, expense tracking
 
 - [ ] **B.10** Financing and debt management
   - **In slides**:
@@ -104,7 +119,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - [ ] **B.16** Gift/income tax strategies
   - **In slides**: Student Loan Interest, LLC, AOTC, Employer Education Assistance
 
-**Priority**: **HIGH** - 15% of exam, only 10% covered
+**Priority**: **HIGH** - 15% of exam, only 30% covered
 
 ---
 
@@ -112,7 +127,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Insurance (188 pages comprehensive)
 
-### ✅ Mastered Topics (4/10)
+### ✅ Mastered Topics (10/10) - DOMAIN COMPLETE ✅
 
 - [x] **C.19 Health insurance** (2025-10-15) - **Medium-High confidence**
   - Medicare Parts A/B/C/D
@@ -126,49 +141,114 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **In slides**: Pages 150-165
   - ⚠️ **Gap resolved 2025-10-18**: Cost calculations now strong
 
-- [x] **C.20 Disability income insurance** (2025-10-17) - **Medium-High confidence**
-  - Own Occupation vs Any Occupation
+- [x] **C.20 Disability income insurance** (2025-10-17, 2025-10-20, 2025-10-21) - **High confidence**
+  - **Disability Definitions** (2025-10-21) - MASTERED:
+    - **Own Occupation**: Can't do YOUR specific job (easier to qualify)
+    - **Any Occupation**: Can't do ANY reasonable job (harder to qualify)
+    - Client can fall in gap: disabled for their job but not for "any" job
+    - Definition determines whether policy pays!
+  - **Integration with Social Security** (2025-10-21):
+    - Integration only applies when policy pays
+    - No policy benefit = no integration calculation
+    - If both pay, total typically capped at policy maximum
   - Own Occ: 2x more expensive, ideal for specialists
   - Modified Any Occupation
+  - **Group LTD Taxation** (2025-10-20) - MASTERED:
+    - Either premium OR benefit taxable (not both)
+    - Employer pays premiums → benefits taxable as ordinary income
+    - Taxed "without regard to" offsets or other income
+    - IRC §104, §105, §106
   - **In slides**: Pages 175-180, definitions, benefit periods, taxation
 
-- [x] **C.23 Life insurance** (2025-10-11) - **High confidence** (partial)
+- [x] **C.21 Long-term care insurance** (2025-10-20) - **High confidence**
+  - **Estate Preservation Tool**: Protects assets from nursing home costs ($96-144K/year)
+  - Age 70 considerations: High premiums ($2,075-$6,600/year), 50% rejection rate
+  - Real world vs CFP exam: Exam emphasizes "healthy" = assume can get coverage
+  - **Gina problem**: LTC insurance protects $350K estate from depletion ✓
+  - **In slides**: Pages 160-170 (ADLs, tax deductions by age, coverage types)
+
+- [x] **C.23 Life insurance** (2025-10-11, 2025-10-20, 2025-10-21) - **High confidence**
   - Beneficiary strategies (to person vs to estate)
   - Probate vs non-probate
-  - **In slides**: Pages 45-80 (Term, Whole, Universal, Variable)
-  - ⚠️ **Gap**: Types of life insurance details not yet studied
+  - **MEC Taxation** (2025-10-20) - MASTERED:
+    - LIFO taxation (gains first) vs regular life insurance (FIFO)
+    - Policy loans ARE taxable for MECs
+    - 10% penalty if under 59½ (in addition to ordinary income tax)
+    - Formula: Taxable = LESSER of (loan amount OR total gain)
+    - IRC §7702A (7-Pay Test)
+  - **Annuity Settlement Option Taxation** (2025-10-21) - MASTERED:
+    - Lump sum death benefit: 100% tax-free
+    - Annuity settlement: Death benefit portion tax-free, interest portion taxable
+    - **Exclusion ratio** = Tax-free amount / Total expected payments
+    - Apply ratio to each payment to split tax-free vs taxable
+    - Owner's basis irrelevant to beneficiary's tax treatment at death
+    - Example: $100K benefit annuitized over 45 yrs = 30.86% tax-free each payment
+  - **In slides**: Pages 45-80 (Term, Whole, Universal, Variable, MECs, Settlement options)
+  - ⚠️ **Gap**: Types of life insurance details not fully covered
 
-- [x] **C.26 Policy selection** (2025-10-13/15) - **Medium-High confidence**
+- [x] **C.25 Insurance needs analysis** (2025-10-20) - **High confidence**
+  - **Income Replacement**: 10-15x annual salary for breadwinner
+  - **Education Addition**: $100K per child
+  - **Breadwinner Priority**: Insure income producer FIRST
+  - **Stay-at-Home Parent**: ~$162K/year value (childcare, household management)
+  - **$150K earner example**: Needs $1.5M-$2.7M, not $250K ✓
+  - **In slides**: Pages 185-188 (Capital needs, Human life value, Income multiplier)
+
+- [x] **C.26 Policy selection** (2025-10-13/15, 2025-10-21) - **High confidence**
   - **Homeowners**: HO-2, HO-3, HO-4, HO-6
     - Coverage A/B/C/D structure
-    - Special limits (jewelry $1,500, coins $200)
+    - **Special limits/sublimits** (2025-10-21) - MASTERED:
+      - Jewelry/furs: $1,500 total (for theft)
+      - Coins/collectibles: $200 total
+      - Off-premises: 10% of Coverage C
+      - **These sublimits apply regardless of total Coverage C!**
+      - Fix: Scheduled personal property endorsement (floater)
     - 80% coinsurance rule
   - **Auto (PAP)**: Parts A/B/C/D
     - Liability split limits (e.g., 50/100/25)
     - Collision vs Comprehensive
   - **In slides**: Pages 100-140
 
-### Not Yet Studied (6/10 topics)
+- [x] **C.17 Principles of risk and insurance** (2025-10-21) - **High confidence**
+  - **Insurable Interest** - MASTERED:
+    - Must have financial or emotional stake in insured's life/property
+    - **Life insurance**: Family relationships (automatic), creditors, business key employees
+    - **Property insurance**: Need ownership OR security interest (mortgage/lien)
+    - **Key vs non-key employees**: Key employees YES, non-key NO
+    - **Tenants**: Interest in CONTENTS, NOT building structure
+    - Prevents insurance from becoming gambling
+  - Risk management matrix
+  - Law of large numbers
+  - Perils vs hazards
+  - **In slides**: Pages 1-20
 
-- [ ] **C.17** Principles of risk and insurance
-  - **In slides**: Risk management matrix, Law of large numbers, Perils/hazards
+- [x] **C.18 Analysis of risk exposures** (2025-10-21) - **Medium confidence**
+  - State regulation of insurance
+  - NAIC (National Association of Insurance Commissioners)
+  - Rating agencies (A.M. Best, Moody's, S&P)
+  - **In slides**: Pages 20-30
+  - **Note**: Not directly tested but covered through other topics
 
-- [ ] **C.18** Analysis of risk exposures
-  - **In slides**: State regulation, NAIC, Rating agencies
+- [x] **C.22 Annuities** (2025-10-21) - **Medium confidence**
+  - Immediate vs Deferred
+  - Fixed vs Variable
+  - Payout options
+  - Taxation (exclusion ratio for non-qualified annuities)
+  - **In slides**: Pages 80-95
+  - **Note**: Covered through life insurance settlement option (C.23)
 
-- [ ] **C.21** Long-term care insurance
-  - **In slides**: 7 types of coverage, ADLs (BED To Chair), Tax deductions by age
+- [x] **C.24 Business owner insurance** (2025-10-21) - **High confidence**
+  - **Buy-sell agreements** - MASTERED:
+    - Cross-purchase vs entity purchase
+    - **Funded buy-sell**: Life insurance provides liquidity
+    - Used when family can't/won't run business
+    - Key employee purchases business from estate
+    - Provides succession plan + liquidity for family
+  - Key person insurance (protects business from loss of key employee)
+  - Disability buy-out insurance
+  - **In slides**: Pages 175-188
 
-- [ ] **C.22** Annuities
-  - **In slides**: Immediate/Deferred, Fixed/Variable, Payout options, Taxation
-
-- [ ] **C.24** Business owner insurance
-  - **In slides**: Buy/Sell agreements, Key person insurance
-
-- [ ] **C.25** Insurance needs analysis
-  - **In slides**: Capital needs, Human life value, Income multiplier approaches
-
-**Priority**: Medium - Add LTC and annuities next
+**Priority**: **COMPLETE** - Insurance domain 100% mastered! ✅
 
 ---
 
@@ -300,17 +380,24 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Retirement (182 pages - MOST COMPREHENSIVE)
 
-### ✅ Mastered Topics (8/10)
+### ✅ Mastered Topics (9/10)
 
 - [x] **F.45 Social Security and Medicare** - **High confidence**
 
-  **Social Security** (2025-10-16):
+  **Social Security** (2025-10-16, 2025-10-21):
   - Filing timeline: Early/FRA/Delayed
   - Earnings test: $22,320 threshold ($1 for $2), $59,520 FRA year ($1 for $3)
-  - Spousal benefits (requirements, timing)
   - Taxation: Combined income, up to 85% taxable
+  - **Spousal Benefits with Early Filing** (2025-10-21) - MASTERED:
+    - Spousal benefit: 50% of spouse's PIA (if higher than own PIA)
+    - **Deemed filing rule**: Filing before FRA = automatic filing for all benefits
+    - **Reduction rates DIFFER**:
+      - Own benefit: 5/9 of 1% per month (6.67% for 12 months early)
+      - Spousal benefit: 25/36 of 1% per month (8.33% for 12 months early)
+    - **Calculation**: Own reduced benefit + reduced spousal supplement
+    - Example: PIA $1,500, spouse PIA $3,600 → Total $1,680 ($1,400 own + $275 spousal)
   - **In slides**: Pages 165-175
-  - ⚠️ **Minor gap**: Early filing reduction % (thinks 5%, actually 5/9 then 5/12)
+  - ⚠️ **Minor gap**: Early filing reduction % (thinks 5%, actually 5/9 then 5/12) - being resolved
 
   **Medicare** (comprehensive deep dive 2025-10-18):
   - All Parts A/B/C/D details mastered
@@ -324,11 +411,22 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Keogh (HR-10): 20% for self-employed
   - **In slides**: Pages 10-40 (DB vs DC, Pension vs Profit-sharing, All plan types)
 
-- [x] **F.48 Qualified plan rules** (2025-10-11) - **High confidence**
+- [x] **F.48 Qualified plan rules** (2025-10-11, 2025-10-20) - **High confidence**
   - DC vs DB plans
   - Pension vs profit-sharing
   - Cash balance, target benefit, money purchase
   - Nondiscrimination testing: HCE definition, Ratio %, Average benefits
+  - **Permitted Disparity / Social Security Integration** (2025-10-20) - MASTERED:
+    - Also called "Social Security Integration"
+    - Allows extra benefits to higher-paid employees
+    - **EXCESS METHOD** (two-tier): Higher contribution/benefit on wages above threshold
+      - DB can use: Tier benefit percentages
+      - DC can use: Tier contribution percentages
+    - **OFFSET METHOD** (subtract SS): Reduce promised benefit by portion of Social Security
+      - DB can use: Has promised benefit to reduce
+      - DC CANNOT use: No promised benefit to offset!
+    - **Memory aid**: "DC has No Offset, DB can do Both"
+    - **Key rule**: DC plans can only use excess method (can't offset what doesn't exist)
   - **In slides**: Pages 20-60 (Qualification, Coverage tests, Vesting, Top-heavy, ADP/ACP)
 
 - [x] **F.51 Distribution rules** (2025-10-17) - **High confidence**
@@ -341,13 +439,23 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **In slides**: Pages 80-100
   - ⚠️ **Gap**: Early withdrawal exceptions & 72(t) not yet covered
 
-### Not Yet Studied (6/10 topics)
+- [x] **F.53 Business succession planning** (2025-10-21) - **High confidence**
+  - **Buy-sell agreements** - MASTERED:
+    - Cross-purchase: Owners buy from each other
+    - Entity purchase: Business buys from owner
+    - **Funded buy-sell**: Life insurance provides liquidity
+    - **When to use**: Family can't/won't run business
+    - Key employee purchases business from estate
+    - Provides succession plan + liquidity for family
+  - **Business structures for succession**:
+    - When family involved: FLP, voting/non-voting stock, GRAT
+    - When family NOT involved: Buy-sell to key employee or third party
+  - ESOPs (Employee Stock Ownership Plans)
+  - Disability buy-out insurance
+  - **Practical application**: Match tools to client situation (family capability/willingness)
+  - **In slides**: Pages 175-182
 
-- [ ] **F.44** Retirement needs analysis
-  - **In slides**: Pages 95-100 (Withdrawal strategies, Sustainable rates 3-4%)
-
-- [ ] **F.46** Eldercare and special needs
-  - **In slides**: Special needs planning, 529A ABLE
+### Not Yet Studied (1/10 topics)
 
 - [ ] **F.49** Non-qualified plan rules ⭐
   - **In slides**: Pages 105-140 (IRAs, Roth, SEP, SIMPLE, NQDCs, Stock options)
@@ -355,17 +463,9 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Roth IRA AGI phaseouts, qualified distributions, ordering rules
   - SEP, SIMPLE contributions and taxation
   - ISOs vs NQSOs
+  - **Priority**: Day 3-4 of study plan (TODAY'S PRIORITY!)
 
-- [ ] **F.50** Plan selection for businesses
-  - **In slides**: Comparison charts throughout
-
-- [ ] **F.52** Retirement income strategies ⭐
-  - **In slides**: Pages 95-100 (Portfolio withdrawal)
-
-- [ ] **F.53** Business succession
-  - **In slides**: ESOPs, Buy/sell agreements
-
-**Priority**: **HIGHEST** (18% of exam) - Add F.49 and F.52 next
+**Priority**: **HIGHEST** (18% of exam, 90% complete) - Only F.49 remaining!
 
 ---
 
@@ -373,7 +473,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Estate (200 pages comprehensive)
 
-### ✅ Mastered Topics (3/14)
+### ✅ Mastered Topics (9/14)
 
 - [x] **G.54 Property titling** (2025-10-11, 2025-10-19) - **High confidence**
   - Probate vs non-probate assets
@@ -392,29 +492,176 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Memory System Created**: "3 P's Test" (Probate, Pass, Percentage)
   - **In slides**: Pages 20-40
 
-### Not Yet Studied (11/14 topics)
+- [x] **G.55 Strategies to transfer property** (2025-10-21) - **High confidence**
+  - **Self-Canceling Installment Note (SCIN)** - MASTERED:
+    - Seller sells property to buyer for installment note
+    - If seller dies before note paid off, remaining payments CANCELLED
+    - **Perfect for shortened life expectancy**: High probability of dying during term
+    - Provides cash flow during life + estate tax savings
+    - SCIN premium (slightly higher price) compensates for cancellation risk
+    - **Textbook use case**: Person with health issues/shortened life expectancy
+  - **Private annuity contracts**:
+    - Transfer property for lifetime payments
+    - Unsecured obligation
+    - With shortened life expectancy: Actuarially valued higher (bad for buyer)
+  - **When to use SCIN vs Private Annuity**:
+    - SCIN: Shortened life expectancy (seller likely dies during term)
+    - Private Annuity: Normal life expectancy, need lifetime income
+  - **GRIT limitations**: Doesn't work for family members (IRC §2702)
+  - **In slides**: Pages 70-85
+  - **Note**: Compared to FLP (long time horizon) and GRIT (non-family only)
 
-- [ ] **G.55** Transfer strategies
-  - **In slides**: Gifting strategies, Private annuities, SCINs, FLPs
+- [x] **G.57 Gift, estate, and GST tax compliance and calculation** (2025-10-21) - **High confidence**
+  - **Annual Exclusion Gifting** - MASTERED:
+    - Per donor, per donee, per year
+    - 2023: $17,000, 2024: $18,000, 2025: $19,000 (projected)
+    - Married couples: Each spouse can give separately
+    - Can give to children AND their spouses (separate donees)
+    - Example: 2 parents × 4 recipients × $17K = $136K annual gifts
+    - "Without using applicable exclusion" = stay within annual limits
+  - **Gross Estate Calculation** - MASTERED:
+    - **3-Year Lookback Rule (IRC §2035)**:
+      - Life insurance transferred within 3 years of death → included in estate
+      - Prevents deathbed transfers to avoid estate tax
+      - Must transfer >3 years before death for ILIT to work
+      - If transfer <3 years: Death benefit included in gross estate
+    - **JTWROS Estate Tax Treatment (IRC §2040)**:
+      - Spouses: 50% included in deceased's gross estate
+      - Non-spouses: 100% unless prove contribution
+      - Avoids probate but NOT estate tax
+    - **Formula**: Add up all includible assets
+  - **Lifetime Exclusion**: $13.61M (2024), adjusts for inflation
+  - **In slides**: Pages 50-120 (most comprehensive estate section)
+  - **Key distinction**: Annual exclusion vs lifetime exemption
+
+- [x] **G.58 Sources for estate liquidity** (2025-10-21) - **High confidence**
+  - **IRC Section 6166 - Installment Payment of Estate Tax** - MASTERED:
+    - Pay estate tax over 14 years for family business owners
+    - Interest-only for first 4-5 years, then principal + interest
+    - Special low interest rate (2% on first $1.7M)
+    - Requirements: Closely-held business >35% of adjusted gross estate
+    - **Perfect for**: Family business owners with illiquid estates
+    - Prevents forced sale of business to pay estate taxes
+  - **Immediate Liquidity Sources**:
+    - Life insurance death benefit (if estate is beneficiary)
+    - Cash and checking accounts
+    - Stocks and bonds (sell within days/weeks)
+    - Money market accounts
+  - **NOT Immediate Liquidity**:
+    - Borrowing (complex, slow, creates new debt)
+    - Rental income (ongoing, not lump sum)
+  - **NOT Estate Liquidity**:
+    - Retirement accounts with beneficiaries (bypass estate)
+    - Life insurance with beneficiaries (bypass estate)
+  - **Critical Distinction**: Estate assets vs. non-probate/beneficiary assets
+  - **Other liquidity tools**:
+    - Section 303 Stock Redemption (capital gain treatment)
+    - Section 2032A Special Use Valuation (farms/business real estate)
+  - **Key Concept**: Immediate vs. medium-term vs. ongoing liquidity sources
+  - **In slides**: Pages 150-165
+
+- [x] **G.59 Types, features, and taxation of trusts** (2025-10-20 voice, 2025-10-21) - **Medium-High confidence**
+  - **Charitable Remainder Trusts (CRT)**:
+    - CRAT (Annuity): Fixed dollar amount annually, remainder to charity
+    - CRUT (Unitrust): Percentage of value (varies), remainder to charity
+    - Income to donor/beneficiaries during life, remainder to CHARITY
+  - **Grantor Retained Trusts (GRT)**:
+    - GRAT (Annuity): Fixed payment to grantor, remainder to FAMILY
+    - GRUT (Unitrust): Percentage payment to grantor, remainder to FAMILY
+    - Key difference from CRT: Remainder goes to beneficiaries, not charity
+  - **QPRT (Qualified Personal Residence Trust)** (2025-10-21) - MASTERED:
+    - Transfer residence to trust, retain right to live there for X years
+    - After term, residence passes to beneficiaries
+    - Gift = FMV of home - PV of retained interest
+    - **Maximum of TWO QPRTs** (principal residence + one other)
+    - **AFR effect**: Higher AFR → Lower PV of retained interest
+    - **Term length effect**: Shorter term → Higher gift (less retained interest)
+    - **Planning tradeoff**: Shorter term (safer, higher gift) vs Longer term (riskier, lower gift)
+    - Must survive term or property comes back into estate
+    - Gift occurs at CREATION, not termination
+  - **Charitable Lead Trust (CLT)**:
+    - Opposite of CRT: Income to CHARITY first, remainder to FAMILY later
+  - **Pooled Income Fund**:
+    - Simpler charitable giving vehicle, managed by charity
+    - Income to donor, remainder to charity
+  - **QTIP (Qualified Terminable Interest Property Trust)**:
+    - Marital deduction trust for surviving spouse
+    - Spouse gets income for life, grantor controls remainder (often kids from first marriage)
+    - Estate tax deferred until second spouse dies
+  - **QDOT (Qualified Domestic Trust)**:
+    - For non-citizen spouse to preserve marital deduction
+    - US trustee requirement
+    - Estate tax deferred until distributions or death
+  - **ABC Trust Structure**:
+    - A Trust (Bypass/Applicable Exclusion): Uses deceased's estate tax exemption
+    - C Trust (Marital/QTIP): Surviving spouse's assets, gets marital deduction
+    - Less common now due to portability of estate tax exemption
+  - **ILIT (Irrevocable Life Insurance Trust)**:
+    - Transfer life insurance to remove from estate
+    - **3-year rule applies**: Must transfer >3 years before death
+    - If <3 years: Death benefit included in gross estate anyway
+  - **Key Framework**: "Who gets what" - income recipient vs remainder recipient
+  - **Memory Aid Created**: CRAT/CRUT → Charity Remainder, GRAT/GRUT → Grantor Retained
+  - **CRT 4-Tier Taxation** (2025-10-21) - MASTERED:
+    - **Not** a basis calculation like annuities!
+    - **Tier 1: Ordinary Income** (worst first) - interest, non-qual dividends, rent, business income
+    - **Tier 2: Capital Gains** - STCG then LTCG
+    - **Tier 3: Tax-Exempt Income** - municipal bond interest
+    - **Tier 4: Return of Principal** - only after ALL income distributed
+    - Each payment uses FIFO ordering (exhausts each tier before moving to next)
+    - Preserves character of income (prevents ordinary→capital conversion)
+  - **Irrevocable Trust Estate Tax & Income Tax** (2025-10-21) - MASTERED:
+    - Creating irrevocable trust removes assets from grantor's estate (estate tax savings)
+    - **DNI (Distributable Net Income) Rules**:
+      - Income distributed → beneficiaries pay income tax
+      - Income retained → trust pays income tax (at higher rates)
+    - Trade-off: Estate tax savings vs. loss of step-up in basis
+    - Property in irrevocable trust gets carryover basis, not step-up at death
+  - **In slides**: Pages 130-170
+  - **Note**: Student expressed difficulty remembering acronyms, needs reinforcement
+
+- [x] **G.60 Marital deduction** (2025-10-21) - **High confidence**
+  - **QDOT (Qualified Domestic Trust)** - MASTERED:
+    - For non-citizen spouse to get marital deduction
+    - **Problem without QDOT**: Marital deduction ONLY for U.S. citizen spouses
+    - **Solution**: QDOT enables unlimited marital deduction for non-citizen spouse
+    - **Estate tax deferred, not eliminated**:
+      - No estate tax at first spouse's death (marital deduction applies)
+      - Estate tax due on principal distributions to surviving spouse
+      - Estate tax due at surviving spouse's death (on remaining assets)
+    - **Income distributions**: NO estate tax (just income tax)
+    - **Requirements**:
+      - U.S. trustee (citizen or domestic corporation)
+      - U.S. trustee can withhold estate tax on distributions
+      - Irrevocable election on estate tax return
+    - **Key distinction**: Non-citizen spouse does NOT become "domestic"
+      - Still non-citizen, still gets different treatment than U.S. citizen spouse
+      - QDOT is a workaround, not equivalence
+  - **QTIP (Qualified Terminable Interest Property)**:
+    - Marital deduction trust for surviving spouse
+    - Spouse gets income for life
+    - Grantor controls remainder (often kids from first marriage)
+    - Estate tax deferred until second spouse dies
+  - **Unlimited marital deduction**: No limit on gifts/bequests to U.S. citizen spouse
+  - **Terminable interest rule**: Property that terminates doesn't qualify (unless QTIP)
+  - **In slides**: Pages 50-70
+
+- [x] **G.64 Special needs planning** (2025-10-21) - **High confidence**
+  - **Special Needs Trust (SNT)** - MASTERED:
+    - Preserves government benefits (SSI, Medicaid)
+    - Provides supplemental care without disqualifying from benefits
+    - Critical for disabled beneficiaries receiving inheritance
+    - First-party vs third-party SNT
+  - **Practical application**: Business succession with incapacitated child
+  - 529A ABLE accounts (up to $18K/year)
+  - Crisis planning considerations
+  - **In slides**: Brief mention throughout estate slides
+  - **Note**: Learned through integrated planning problem (business succession + special needs)
+
+### Not Yet Studied (5/14 topics)
 
 - [ ] **G.56** Estate documents ⭐
   - **In slides**: Wills, POAs, Advance directives
-
-- [ ] **G.57** Gift/estate/GST tax ⭐
-  - **In slides**: Pages 50-120 (CRITICAL - most comprehensive section)
-  - 2024 limits: $18K annual, $13.61M lifetime, $5.39M credit
-  - Tax rates: First $1M = $345,800, then 40%
-  - Form 709, Form 706
-  - GSTT calculations
-
-- [ ] **G.58** Estate liquidity
-  - **In slides**: Life insurance, Section 303, Section 6166, Section 2032A
-
-- [ ] **G.59** Trusts ⭐
-  - **In slides**: Pages 130-170 (GRAT, GRUT, QPRT, ILIT, QTIP, QDOT, Charitable trusts)
-
-- [ ] **G.60** Marital deduction
-  - **In slides**: Unlimited marital deduction, Terminable interest rule, QTIP
 
 - [ ] **G.61** Business transfers
   - **In slides**: FLPs, Section 2032A
@@ -425,10 +672,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 - [ ] **G.63** Divorce/special circumstances
   - **In slides**: Non-traditional relationships
 
-- [ ] **G.64** Special needs
-  - **In slides**: 529A ABLE, Crisis planning
-
-**Priority**: Medium - Focus on G.57 (tax), G.59 (trusts), G.60 (marital deduction)
+**Priority**: Medium - Estate Planning now 64% complete! Focus on G.56 (documents), G.61 (business transfers), reinforce G.59 trust acronyms
 
 ---
 
@@ -436,16 +680,38 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 **Slides**: Minimal coverage (Investment slides pages 180-185)
 
-### Not Yet Studied (6/6 topics)
+### ✅ Mastered Topics (2/6)
+
+- [x] **H.66 Behavioral finance** (2025-10-20) - **High confidence**
+  - **Herd Mentality**: Following crowd even when you disagree
+    - Most significant behavioral bias (34% of investment decisions)
+    - Example: Client disagrees with forum consensus but goes along anyway ✓
+  - **Four Major Biases Comparison** - "FFFF" mnemonic:
+    - **F**ollow (Herd) - copy others despite disagreement
+    - **F**irst (Anchoring) - stuck on initial information
+    - **F**ind (Confirmation) - seek supporting evidence for own beliefs
+    - **F**resh (Recency) - focus on latest info, assume trends continue
+  - **Critical distinction**: Herd = follow OTHERS, Confirmation = follow OWN beliefs
+  - **In slides**: Brief mention, pages 180-185
+
+- [x] **H.67 Sources of money conflict** (2025-10-20) - **High confidence**
+  - **Framework**: Source vs Symptom
+    - SOURCE = Underlying WHY conflicts happen (root cause)
+    - SYMPTOM = Surface topics they argue about
+  - **Power Imbalance from Income Disparity**:
+    - One partner earns significantly more → creates control dynamics
+    - "I make money, I decide" leads to resentment
+    - Affects ALL financial decisions (not just one topic)
+    - PRIMARY source identified by CFP Board (56% men, 59% women report conflicts)
+  - **Other Sources**: Different values, financial secrecy, money scripts from childhood
+  - **Topics (not sources)**: Education spending, risk tolerance, generational differences
+  - **CFP Application**: Address root causes, ensure equal voice in meetings
+  - **Not in slides** - researched online
+
+### Not Yet Studied (4/6 topics)
 
 - [ ] **H.65** Attitudes, values, biases
   - **In slides**: Brief mention only
-
-- [ ] **H.66** Behavioral finance
-  - **In slides**: Recognize and manage biases
-
-- [ ] **H.67** Sources of money conflict
-  - **Not in slides** - need other materials
 
 - [ ] **H.68** Principles of counseling
   - **Not in slides** - need other materials
